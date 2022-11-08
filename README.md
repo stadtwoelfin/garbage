@@ -5,3 +5,5 @@ Erzeugt 1 MB Datenmüll in 100 ms Abstand, im Bulk-Download.
 
 Wofür?   
 Um leeren Speicherplatz zu überschreiben.
+
+[Live Demo](https://stadtwoelfin.github.io/garbage/)
